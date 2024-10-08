@@ -1,1 +1,1 @@
-# MED: Mosquito Ecology Detection and Surface Segmentation Dataset
+# MED-SSD: Mosquito Ecology Detection and Surface Segmentation Dataset
