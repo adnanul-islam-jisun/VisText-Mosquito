@@ -12,7 +12,7 @@
 ![Dataset Overview](Result/YOLOv8x-Seg/seg_1.png)
 
 <h2>Access the Dataset</h2>
-<p>Explore the MosquitoFusion dataset on Hugging Face: <a href="" target="_blank">MED-SSD</a></p>
+<p>Explore the MosquitoFusion dataset on Kaggle: <a href="" target="_blank">MED-SSD</a></p>
 
 <h2>Code</h2>
 <p>The notebook called <a href="Code/yolov5s_yolov8n_yolov9s_1.ipynb">yolov5s_yolov8n_yolov9s_1.ipynb</a> is used to train the models YOLOv5s, YOLOv8n, and YOLOv9s for mosquito breeding place detection with the MED-SSD Dataset. And the notebook called <a href="Code/Yolov8x-seg.ipynb">Yolov8x-seg.ipynb</a>.</p>
