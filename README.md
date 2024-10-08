@@ -15,13 +15,13 @@
 <p>Explore the MosquitoFusion dataset on Hugging Face: <a href="" target="_blank">MED-SSD</a></p>
 
 <h2>Code</h2>
-<p>Here is a notebook called '' is used to train the model '' for mosquito detection with the MED-SSD Dataset .</p>
+<p>The notebook called <a href="Code/yolov5s_yolov8n_yolov9s_1.ipynb">yolov5s_yolov8n_yolov9s_1.ipynb</a> is used to train the models YOLOv5s, YOLOv8n, and YOLOv9s for mosquito breeding place detection with the MED-SSD Dataset. And the notebook called <a href="Code/Yolov8x-seg.ipynb">Yolov8x-seg.ipynb</a>.</p>
 
 <h2>License</h2>
 <p>This dataset is available under <a href="LICENSE">LICENSE</a>. Please review the license before using the dataset for your projects.</p>
 
 <h2>Cite</h2>
-<p>If you use MED-SSD dataset for your research, please cite it as follows:</p>
+<p>If you use the MED-SSD dataset for your research, please cite it as follows:</p>
 <pre>
 </pre>
 
