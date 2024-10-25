@@ -4,7 +4,7 @@
 <p>The MED-SAM dataset is designed to support the detection of mosquito breeding sites and the segmentation of water surfaces in those locations. It consists of two main components:
 
 1. **Breeding Place Detection**: This part includes 1,828 images with 3,752 annotations across five different classes: Coconut-Exocarp, Vase, Tire, Drain-Inlet, and Bottle. Images were collected from various urban, semi-urban, and rural areas in Bangladesh during daylight hours to ensure consistent quality. Technical validation was performed using object detection models such as YOLOv5s, YOLOv8n, and YOLOv9s, with YOLOv5s achieving the highest accuracy.
-2. **Water Surface Segmentation:** This component contains 142 images and 253 annotations focused on segmenting water surfaces in two classes: vase_with_water and tire_with_water. The segmentation was validated using the YOLOv8x-Seg model to accurately identify the presence of water in potential breeding sites.
+2. **Water Surface Segmentation:** This component contains 142 images and 253 annotations focused on segmenting water surfaces in two classes: vase_with_water and tire_with_water. The segmentation was validated using the YOLOv8x-Seg and YOLOv11n-Seg models to accurately identify the presence of water in potential breeding sites.
 
 The MED-SAM dataset serves as a valuable resource for developing AI-based solutions aimed at detecting and analyzing mosquito breeding sites, contributing to mosquito control efforts, and the prevention of mosquito-borne diseases. Its combination of object detection and water surface segmentation offers a novel approach to identifying high-risk areas for mosquito proliferation.</p>
 
