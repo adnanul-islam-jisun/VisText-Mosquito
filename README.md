@@ -28,10 +28,10 @@ The MED-SAM dataset serves as a valuable resource for developing AI-based soluti
 <h2>License</h2>
 <p>This dataset is available under <a href="LICENSE">LICENSE</a>. Please review the license before using the dataset for your projects.</p>
 
-<h2>Cite</h2>
+<!-- <h2>Cite</h2>
 <p>If you use the MED-SAM dataset for your research, please cite it as follows:</p>
 <pre>
-</pre>
+</pre> -->
 
 <h2>Contact</h2>
 <p>For inquiries or feedback, feel free to contact us at mislam221096@bscse.uiu.ac.bd, msayeedi212049@bscse.uiu.ac.bd</p>
