@@ -8,11 +8,7 @@
 
 The MED-SAM dataset serves as a valuable resource for developing AI-based solutions aimed at detecting and analyzing mosquito breeding sites, contributing to mosquito control efforts, and the prevention of mosquito-borne diseases. Its combination of object detection and water surface segmentation offers a novel approach to identifying high-risk areas for mosquito proliferation.</p>
 
-<h3>Breeding Place Detection</h3>
-
 ![Dataset Overview](Result/Yolov8n/val_batch1_pred.jpg)
-
-<h3>Surface Segmentation</h3>
 
 ![Dataset Overview](Result/YOLOv8x-Seg/seg_1.png)
 
