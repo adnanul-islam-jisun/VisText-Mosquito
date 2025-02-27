@@ -8,15 +8,15 @@
 
 The MED-SAM dataset serves as a valuable resource for developing AI-based solutions aimed at detecting and analyzing mosquito breeding sites, contributing to mosquito control efforts, and the prevention of mosquito-borne diseases. Its combination of object detection and water surface segmentation offers a novel approach to identifying high-risk areas for mosquito proliferation.</p>
 
-![Dataset Overview](Result/Yolov8n/val_batch1_pred.jpg)
+![Dataset Overview](Assets/methodology.png)
 
-![Dataset Overview](Result/YOLOv8x-Seg/seg_1.png)
+![Dataset Overview](Assets/annotation.png)
 
 <h2>Access the Dataset</h2>
 <p>Explore the MED-SAM dataset on Kaggle: <a href="" target="_blank">MED-SAM</a></p>
 
 <h2>Code</h2>
-<p>The notebook called <a href="Code/yolov5s_yolov8n_yolov9s_1.ipynb">yolov5s_yolov8n_yolov9s_1.ipynb</a> is used to train the models YOLOv5s, YOLOv8n, and YOLOv9s for mosquito breeding place detection with the MED-SAM Dataset. And the notebook called <a href="Code/Yolov8x-seg.ipynb">Yolov8x-seg.ipynb</a>.</p>
+<p>The notebook called <a href="Code/yolov5s_yolov8n_yolov9s_1.ipynb">yolov5s_yolov8n_yolov9s_1.ipynb</a> is used to train the models YOLOv5s, YOLOv8n, and YOLOv9s for mosquito breeding place detection with the MED-SAM Dataset. And the notebook called <a href="Code/Yolov8x-seg.ipynb">Yolov8x-seg.ipynb</a> is used to train the models YOLOv8x-seg for surface water segmentation with the MED-SAM Dataset.</p>
 
 <h2>Model Weights</h2>
 <p>The weight for object detection models are - <a href="Result/Yolov5s/Weight">YOLOv5s</a>, <a href="Result/Yolov5s/Weight">YOLOv8n</a>, and <a href="Result/Yolov5s/Weight">YOLOv9s</a>. The weight for segmentation model <a href="https://drive.google.com/drive/folders/1vjX6ZJbT87Xto4hQ7_dcueQjF9C5DjkI?usp=sharing">YOLOv8x-Seg</a>.
