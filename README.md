@@ -13,7 +13,7 @@ The MED-SAM dataset serves as a valuable resource for developing AI-based soluti
 ![Dataset Overview](Assets/annotation.png)
 
 <h2>Access the Dataset</h2>
-<p>Explore the MED-SAM dataset on Kaggle: <a href="" target="_blank">MED-SAM</a></p>
+<p>Explore the MED-SAM dataset on Kaggle: <a href="https://data.mendeley.com/datasets/rtsfh7jh7p/1" target="">MED-SAM</a></p>
 
 <h2>Code</h2>
 <p>The notebook called <a href="Code/yolov5s_yolov8n_yolov9s_1.ipynb">yolov5s_yolov8n_yolov9s_1.ipynb</a> is used to train the models YOLOv5s, YOLOv8n, and YOLOv9s for mosquito breeding place detection with the MED-SAM Dataset. And the notebook called <a href="Code/Yolov8x-seg.ipynb">Yolov8x-seg.ipynb</a> is used to train the models YOLOv8x-seg for surface water segmentation with the MED-SAM Dataset.</p>
