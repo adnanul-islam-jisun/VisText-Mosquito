@@ -27,13 +27,19 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 <h2>License</h2>
 <p>This dataset is available under <a href="LICENSE">LICENSE</a>. Please review the license before using the dataset for your projects.</p>
 
-<!-- <h2>Cite</h2>
+<h2>Cite</h2>
 <p>If you use the MED-SAM dataset for your research, please cite it as follows:</p>
 <pre>
-</pre> -->
+@article{islam2025vistext,
+  title={VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning},
+  author={Islam, Md Adnanul and Sayeedi, Md Faiyaz Abdullah and Shuvo, Md Asaduzzaman and Rahman, Muhammad Ziaur and Bappy, Shahanur Rahman and Rahman, Raiyan and Shatabda, Swakkhar},
+  journal={arXiv preprint arXiv:2506.14629},
+  year={2025}
+}
+</pre>
 
-<!-- <h2>Contact</h2>
-<p>For inquiries or feedback, feel free to contact us at mislam221096@bscse.uiu.ac.bd, msayeedi212049@bscse.uiu.ac.bd</p> -->
+<h2>Contact</h2>
+<p>For inquiries or feedback, feel free to contact us at mislam221096@bscse.uiu.ac.bd, msayeedi212049@bscse.uiu.ac.bd</p>
 
 </body>
 </html>
