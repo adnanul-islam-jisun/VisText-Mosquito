@@ -1,7 +1,7 @@
 # VisText-Mosquito: A Multimodal Dataset for Mosquito Breeding Site Detection, Surface Segmentation, and Reasoning
 
 <h2>Dataset Overview</h2>
-<p>VisText-Mosquito is a comprehensive multimodal dataset designed to support the detection of mosquito breeding sites, segmentation of water surfaces, and generation of natural language reasoning for explainable AI applications. It consists of three core components:
+<p>VisText-Mosquito is a comprehensive multimodal dataset designed to support detecting mosquito breeding sites, segmentation of water surfaces, and generating natural language reasoning for explainable AI applications. It consists of three core components:
 
 1. **Breeding Place Detection:** This part includes 1,828 images with 3,752 annotations across five classes: Coconut-Exocarp, Vase, Tire, Drain-Inlet, and Bottle. The images were collected from diverse urban, semi-urban, and rural environments in Bangladesh under daylight conditions to ensure visual consistency. Detection performance was validated using state-of-the-art object detection models, including YOLOv5s, YOLOv8n, and YOLOv9s, with YOLOv9s achieving the highest mAP@50.
 
@@ -28,7 +28,7 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 <p>This dataset is available under <a href="LICENSE">LICENSE</a>. Please review the license before using the dataset for your projects.</p>
 
 <h2>Cite</h2>
-<p>If you use the MED-SAM dataset for your research, please cite it as follows:</p>
+<p>If you use the dataset for your research, please cite it as follows:</p>
 <pre>
 @article{islam2025vistext,
   title={VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning},
@@ -39,7 +39,7 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 </pre>
 
 <h2>Contact</h2>
-<p>For inquiries or feedback, feel free to contact us at mislam221096@bscse.uiu.ac.bd, msayeedi212049@bscse.uiu.ac.bd</p>
+<p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd, mislam221096@bscse.uiu.ac.bd</p>
 
 </body>
 </html>
