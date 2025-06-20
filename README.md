@@ -1,5 +1,7 @@
 # VisText-Mosquito: A Multimodal Dataset for Mosquito Breeding Site Detection, Surface Segmentation, and Reasoning
 
+<a href="https://arxiv.org/abs/2506.14629">**[paper]**</a>
+
 <h2>Dataset Overview</h2>
 <p>VisText-Mosquito is a comprehensive multimodal dataset designed to support detecting mosquito breeding sites, segmentation of water surfaces, and generating natural language reasoning for explainable AI applications. It consists of three core components:
 
