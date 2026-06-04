@@ -43,7 +43,6 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
     year      = {2026},
     pages     = {9165-9173}
 }
-}
 </pre>
 
 <h2>Contact</h2>
