@@ -32,16 +32,19 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 <h2>Model Weights</h2>
 <p>The weight for object detection models are - <a href="Result/Yolov5s/Weight">YOLOv5s</a>, <a href="Result/Yolov5s/Weight">YOLOv8n</a>, and <a href="Result/Yolov5s/Weight">YOLOv9s</a>. The weight for segmentation model <a href="https://drive.google.com/drive/folders/1vjX6ZJbT87Xto4hQ7_dcueQjF9C5DjkI?usp=sharing">YOLOv8x-Seg</a>.
 
-<!-- <h2>Cite</h2>
+<h2>Cite</h2>
 <p>If you use the dataset for your research, please cite it as follows:</p>
 <pre>
-@article{islam2025vistext,
-  title={VisText-Mosquito: A Multimodal Dataset and Benchmark for AI-Based Mosquito Breeding Site Detection and Reasoning},
-  author={Islam, Md Adnanul and Sayeedi, Md Faiyaz Abdullah and Shuvo, Md Asaduzzaman and Rahman, Muhammad Ziaur and Bappy, Shahanur Rahman and Rahman, Raiyan and Shatabda, Swakkhar},
-  journal={arXiv preprint arXiv:2506.14629},
-  year={2025}
+@InProceedings{Islam_2026_CVPR,
+    author    = {Islam, Md. Adnanul and Sayeedi, Md. Faiyaz Abdullah and Shuvo, Md. Asaduzzaman and Bappy, Shahanur Rahman and Rahman, Muhammad Ziaur and Islam, Md Asiful and Shatabda, Swakkhar},
+    title     = {VisText-Mosquito: A Unified Multimodal Dataset for Visual Detection, Segmentation, and Textual Explanation on Mosquito Breeding Sites},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {9165-9173}
 }
-</pre> -->
+}
+</pre>
 
 <h2>Contact</h2>
 <p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd, mislam221096@bscse.uiu.ac.bd</p> 
